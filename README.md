@@ -3,4 +3,4 @@ A simple text recognizer to recognize a text<br/>
 
 
 ---
-An android based app will be pushed soon
+Desc will added soon
